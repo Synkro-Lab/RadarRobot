@@ -1,4 +1,4 @@
-// #include <Servo.h>
+ #include <Servo.h>
 int angle = 0;
 bool sweepUp = true;
 
