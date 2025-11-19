@@ -29,7 +29,7 @@ HC-SR04 ultrasonic sensor
 
 SG90 / MG995 servo
 
-L298N motor shield driver or dual-bridge module
+L293d / L298N motor shield driver or dual-bridge module
 
 HC-05 Bluetooth module
 
