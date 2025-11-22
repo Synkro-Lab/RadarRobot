@@ -6,18 +6,24 @@ The vehicle performs continuous sweeping of its surroundings using a servo-mount
 The final objective is a fully controllable robotic car with Bluetooth communication (HC-05) and a migrated radar interface inside a mobile app.
 
 🔧 Project Structure
+
 ---/Arduino
   ---  ├── Radarrapido.ino
   ---  ├── controlcarro.ino    # Main radar scanning + HC-SR04 + servo logic
    --- └── MotorControl.ino     # (optional) Motor driver tests it's not uploadaed (yet)
+
+   ---
+   
 /Processing
-    ---├── radar_visualizer.pde # Complete radar UI (angle, distance, sweep, arcs)
+    --- ├── radar_visualizer.pde # Complete radar UI (angle, distance, sweep, arcs)
    --- ├── data/
-    ---└── utils.pde            # (optional) Additional visual modules
+    --- └── utils.pde            # (optional) Additional visual modules
+    
+---
 
 /App
-    ---├── ui_mockups/
-    ---├── bluetooth_tests/
+    --- ├── ui_mockups/
+    --- ├── bluetooth_tests/
    --- └── RadarAppBlueprint.txt
 
 🚗 System Overview
