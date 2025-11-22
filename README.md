@@ -1,4 +1,5 @@
-🛰️ RadarRobot – Autonomous Scanning Car with Ultrasonic Radar & App Integration
+# 🛰️ RadarRobot – Autonomous Scanning Car with Ultrasonic Radar & App Integration
+### Arduino + Processing + Mechatronic System
 
 RadarRobot is an integrated robotics system combining Arduino-based control, ultrasonic radar scanning, Processing real-time visualization, and a future Java/Android app interface.
 The vehicle performs continuous sweeping of its surroundings using a servo-mounted HC-SR04 distance sensor while sending angle–distance data for live visualization.
