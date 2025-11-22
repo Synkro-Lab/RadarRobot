@@ -6,6 +6,9 @@ The vehicle performs continuous sweeping of its surroundings using a servo-mount
 
 The final objective is a fully controllable robotic car with Bluetooth communication (HC-05) and a migrated radar interface inside a mobile app.
 
+![InventorRender](Media/Render.png)
+
+
 🔧 Project Structure
 
 ---/Arduino
